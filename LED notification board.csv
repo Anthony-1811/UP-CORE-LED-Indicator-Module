@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D1,D2";"LED_0805_HandSoldering";2;"LED_Small";;;
+2;"J1";"JST_GH_SM03B-GHS-TB_03x1.25mm_Angled";1;"Conn_01x03";;;
+3;"R1,R2";"R_0805_HandSoldering";2;"R_Small";;;
+4;"U1";"SOIC-8_3.9x4.9mm_Pitch1.27mm";1;"LM358";;;
+5;"REF**";"MountingHole_2.5mm";1;"MountingHole_2.5mm";;;
